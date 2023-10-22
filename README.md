@@ -43,4 +43,4 @@ By participating in the Source Start GitHub Event, you not only contribute to op
 
 Happy contributing! 🌟
 
-![](https://komarev.com/ghpvc/?username=techcsispit)
+![](https://komarev.com/ghpvc/?username=techcsispit&style=for-the-badge&color=orange)
