@@ -42,3 +42,5 @@ Please follow these contributing guidelines for the Source Start event:
 By participating in the Source Start GitHub Event, you not only contribute to open source but also have the opportunity to earn recognition for your valuable work.
 
 Happy contributing! 🌟
+
+![](https://komarev.com/ghpvc/?username=techcsispit)
